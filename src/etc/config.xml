@@ -1,0 +1,14 @@
+<config>
+    <modules>
+        <H2ODev_CustomCarrier>
+            <version>0.0.1</version>
+        </H2ODev_CustomCarrier>
+    </modules>
+    <global>
+        <models>
+            <h2odevcustomcarrier>
+                <class>H2ODev_CustomCarrier_Model</class>
+            </h2odevcustomcarrier>
+        </models>
+    </global>
+</config>
