@@ -3,6 +3,10 @@
         <H2ODev_CustomCarrier>
             <active>true</active>
             <codePool>local</codePool>
+            <depends>
+                <Mage_Adminhtml/>
+                <Mage_Shipping/>
+            </depends>
         </H2ODev_CustomCarrier>
     </modules>
 </config>
